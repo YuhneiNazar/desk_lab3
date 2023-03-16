@@ -1,0 +1,4 @@
+﻿  desk_lab3.cpp
+C:\Users\Nazar\Desktop\lab\desk_lab3\desk_lab3\desk_lab3.cpp(42,9): warning C4101: 'k': unreferenced local variable
+C:\Users\Nazar\Desktop\lab\desk_lab3\desk_lab3\desk_lab3.cpp(42,6): warning C4101: 'j': unreferenced local variable
+  desk_lab3.vcxproj -> C:\Users\Nazar\Desktop\lab\desk_lab3\x64\Debug\desk_lab3.exe
